@@ -16,3 +16,5 @@ allo
 adding section 2 phase 1
 
 adding section 2 phase 2
+
+j'ajoute premiere phrase de merging paragraph
